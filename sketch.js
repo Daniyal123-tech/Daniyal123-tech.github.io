@@ -2,7 +2,7 @@
 function setup() {
  createCanvas(400, 680);
  background("black");
- stroke("white");
+ stroke("red");
 }
 frameRate:200
 let x;
